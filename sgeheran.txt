@@ -1,0 +1,11 @@
+$ cat sgeheran.txt  # after saving, show the contents of the file
+
+git clone: clones a local or remote repository
+
+git add: adds new file in staging area
+
+git commit: commits changes made to the file and moves from staging area
+
+git push: push changes to the specific branch of the repository
+
+git pull: pull changes to the specific branch of the repository
