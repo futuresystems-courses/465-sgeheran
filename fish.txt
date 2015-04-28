@@ -1,0 +1,5 @@
+$ cat fish.txt  # after saving, show the contents of the file
+One fish
+Two fish
+Red fish
+Blue fish
