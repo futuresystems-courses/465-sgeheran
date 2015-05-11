@@ -9,3 +9,7 @@ git commit: commits changes made to the file and moves from staging area
 git push: push changes to the specific branch of the repository
 
 git pull: pull changes to the specific branch of the repository
+
+The remote repository is one that is hosted on another server/machine.
+
+The local repository is the one that is on your machine

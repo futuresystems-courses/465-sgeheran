@@ -1,0 +1,2 @@
+>>> import cloudmesh
+>>> cloudmesh.version()
